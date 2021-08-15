@@ -28,7 +28,7 @@ For Bash script:
 
 ```sh
 mvn archetype:generate \
--DgroupId=com.maryanto.dimas.udemy \
+-DgroupId=com.satrio.kukuh.learn \
 -DartifactId=docker-javaweb \
 -Dversion=1.0.0-release \
 -DarchetypeCatalog=internal \
@@ -40,7 +40,7 @@ For Powershell script:
 
 ```powershell
 mvn archetype:generate `
--DgroupId='com.maryanto.dimas.udemy' `
+-DgroupId='com.satrio.kukuh.learn' `
 -DartifactId='docker-javaweb' `
 -Dversion='1.0.0-release' `
 -DarchetypeCatalog='internal' `
